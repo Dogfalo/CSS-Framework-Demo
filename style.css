@@ -1,0 +1,30 @@
+#front-page {
+	height: 100%;
+	display: table;
+	padding-top: 6%;
+}
+
+.images {
+	margin: 0 auto;
+	vertical-align: middle;
+	display:block;
+}
+
+.promo{
+	text-align: center;
+	margin-bottom: 7%;
+}
+.navbar-default{
+	margin-bottom: 0px;
+}
+.cover {
+	background-image: url('img/bg.jpg');
+	height: 100%;
+	margin-bottom: 10%;
+}
+
+.btn-success{
+	border-color: 2px solid #41dd85;
+	background-color: rgba(0,0,0,0);
+	color: #41dd85;
+}
